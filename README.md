@@ -10,7 +10,9 @@ A full-stack product management application built with:
 
 ## 📁 Project Structure
 product_catalog/
+
 ├── products-service/ # Spring Boot backend
+
 └── angular_product/ # Angular frontend
 
 ---
