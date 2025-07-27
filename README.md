@@ -52,6 +52,6 @@ product_catalog/
    ```bash
    cd products-service
 
-   📝 Author
+📝 Author
 Khawla Lamsiyeh
 GitHub: @lamsiyehkhawla
